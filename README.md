@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains the replication code and cleaned data for the main regression analysis reported in our iScience paper. The analysis examines the impact of COVID-19 deaths on electricity consumption across different building types in [Location], using a Two-Stage Least Squares (2SLS) instrumental variable approach.
+This repository contains the replication code and cleaned data for the main regression analysis reported in our iScience paper. The analysis examines the impact of COVID-19 deaths on electricity consumption across different building types in South Korea, using a Two-Stage Least Squares (2SLS) instrumental variable approach.
 
 ## Requirements
 

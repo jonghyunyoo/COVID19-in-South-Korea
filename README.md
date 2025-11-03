@@ -54,7 +54,7 @@ This will replicate all results from the manuscript.
 ### Building Type Categories
 
 | Building Type | N (observations) |
-|-------------------|---------------------|------------------|
+| ------------------- | -------- |
 | Commercial_Retail | ~716,000 |
 | Community | ~14,328,000 |
 | Civic_Business | ~1,509,000 |

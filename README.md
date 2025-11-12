@@ -114,7 +114,7 @@ This will replicate all results from the manuscript.
 | `dong` | District identifier | integer | Clustering |
 
 ---
-
+```
 ## Contact
 
 For questions or data access requests:
